@@ -1,2 +1,6 @@
-# general-static
-通用静态
+# 通用静态
+
+----
+
+## layui
+
